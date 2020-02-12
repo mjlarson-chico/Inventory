@@ -1,3 +1,14 @@
+/*
+  Inventory class which stores:
+    - Item name
+    - Price
+    - Current stock
+  
+  Has capability to decrease stock for each item sold.
+
+*/
+
+
 #ifndef _INVENTORY_
 #define _INVENTORY_
 #include <iostream>
